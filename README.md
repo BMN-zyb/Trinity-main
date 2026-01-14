@@ -74,5 +74,3 @@ python test_Action_cls.py  --token_len 50 --device 0 --batch_size 64 --vision_fe
 ## Citation  
 If you find our work useful for your research, please cite our paper:  
 title = {Tri-Modal Temporal-Alignment-based Multi-Modal Classification},
-# Trinity-main
-# Trinity-main
